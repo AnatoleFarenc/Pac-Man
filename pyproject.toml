@@ -1,0 +1,14 @@
+[project]
+name = "pac-man"
+version = "0.1.0"
+description = "Recreation of PACMAN classic videogame."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "flake8",
+    "mypy",
+    "pygame-ce",
+    "numpy",
+    "pydantic",
+    "build"
+]
